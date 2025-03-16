@@ -1,7 +1,5 @@
 # 📢 Dot Net Learners House Meetup – Monthly Event - Mar 2025
 
-# 📢 Dot Net Learners House Meetup – Monthly Event - Mar 2025
-
 ## Date Time: 16-Mar-2025 at 09:00 AM IST
 
 ## Event URL: [https://www.meetup.com/dot-net-learners-house-hyderabad/events/304750920](https://www.meetup.com/dot-net-learners-house-hyderabad/events/304750920)
