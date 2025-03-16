@@ -1,10 +1,16 @@
 # 📢 Dot Net Learners House Meetup – Monthly Event - Mar 2025
 
+# 📢 Dot Net Learners House Meetup – Monthly Event - Mar 2025
+
+## Date Time: 16-Mar-2025 at 09:00 AM IST
+
+## Event URL: [https://www.meetup.com/dot-net-learners-house-hyderabad/events/304750920](https://www.meetup.com/dot-net-learners-house-hyderabad/events/304750920)
+
+## YouTube URL: [https://www.youtube.com/watch?v=rrZqYt2YDFM](https://www.youtube.com/watch?v=rrZqYt2YDFM)
+
 ![Information | 50x50](./Documentation/Images/Information.PNG)
 
 ![Seat Belt | 50x50](./Documentation/Images/SeatBelt.PNG)
-
-@Manikanta Gandhi Medishet 
 
 Below is a demo script that Manikanta can use as a base for a 15‑minute session. He can adjust the content and add his personal touch as needed.
 
@@ -29,6 +35,9 @@ Today, we’ll cover:
 *[Section 1: Overview of the App Architecture – 3 minutes]*
 
 “Let’s start by understanding the architecture of our Single Turn Chat GPT Clone. At a high level, our application consists of the following layers:
+
+![Seat Belt | 50x50](./Documentation/Images/ArchitectureDiagram.jpg)
+
 
 1. *Backend API with Flask:*  
    We’re using Flask to build a lightweight API. This API handles incoming chat messages, forwards them to our language model, and then returns the generated response.  
